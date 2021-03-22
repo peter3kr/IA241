@@ -4,7 +4,7 @@ Lec 8 functions
 
 def my_function(a,b=0):
     result = a + b
-    print('a is', a)
+    # print('a is', a)
     print('b is', b)
     # return result
     
@@ -38,8 +38,8 @@ def cal_f(m):
         return 1
     else:
         return m * cal_f(m-1)
-print(cal_f(5))
+# print(cal_f(5))
 
 def cal_p(m,n):
     return cal_f(m)/cal_f(m-n)
-print(cal_p(6,4))
+# print(cal_p(6,4))
