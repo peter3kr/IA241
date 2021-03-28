@@ -28,3 +28,4 @@ Share my labs and Final Projects for IA241
 * Item3
 
 (https://github.com/peter3kr/IA241/blob/main/lec9_part2.py)
+![image](https://user-images.githubusercontent.com/77942303/112765906-5fa31600-8fdd-11eb-9bf5-8dc881d1f5bf.png)
