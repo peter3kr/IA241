@@ -26,3 +26,5 @@ Share my labs and Final Projects for IA241
 * Item1
 * Item2
 * Item3
+
+(https://github.com/peter3kr/IA241/blob/main/lec9_part2.py)
